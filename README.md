@@ -1,8 +1,6 @@
 
-<div style="font-size: 36px; font-weight: bold; text-align: center; border: 2px solid #000000; background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
-    Hello world in jeong min lee
-</div>
-
+**Hello My World!**
+  
 ![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeas3140)
 
 
@@ -12,9 +10,9 @@
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
   ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
-- **Frameworks/Tools**: 
+- **Frameworks & Tools**: 
   - Git, Unity
-- **Currently Learning**: 
+- **Currently I Learning..**: 
   - Unity
   - Python, javascript
   
