@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**Leejungmin1119/Leejungmin1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="font-size: 36px; font-weight: bold; text-align: center; border: 2px solid #000000; background-color: #000000; color: white; padding: 20px; border-radius: 10px;">
+    Hello world in jeong min lee
+</div>
 
-Here are some ideas to get you started:
+![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeas3140)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠 Tech Stack
+- **Languages**:
+  <br> 
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
+- **Frameworks/Tools**: 
+  - Git, Unity
+- **Currently Learning**: 
+  - Unity
+  - Python, javascript
+  
+---
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
