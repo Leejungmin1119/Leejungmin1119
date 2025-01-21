@@ -5,6 +5,11 @@
 
 Here are some ideas to get you started:
 
+    "idx": 0,
+    "color": "A3DCBE",
+    "text": "363636",
+    "textBg": "f7f5f5"
+    
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
