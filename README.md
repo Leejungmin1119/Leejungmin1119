@@ -3,7 +3,6 @@
   
 ![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=leeas3140)
 
-
 ### 🛠 Tech Stack
 - **Languages**:
   <br> 
@@ -19,6 +18,6 @@
 ---
 
 ### 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leejungmin1119&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Leejungmin1119&theme=dark&show_icons=true)
 
 ---
